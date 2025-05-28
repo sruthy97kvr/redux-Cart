@@ -1,7 +1,7 @@
 
 import './App.css'
 import { Routes,Route } from 'react-router-dom'
-import Home from './pages/home'
+import Home from './pages/Home1'
 import Cart from './pages/cart'
 import WhishList from './pages/WhishList'
 import View from './pages/View'
